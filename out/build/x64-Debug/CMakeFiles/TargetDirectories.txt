@@ -1,0 +1,4 @@
+C:/Users/15103/Desktop/251/work4/out/build/x64-Debug/CMakeFiles/project4.dir
+C:/Users/15103/Desktop/251/work4/out/build/x64-Debug/CMakeFiles/graph_app.dir
+C:/Users/15103/Desktop/251/work4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/15103/Desktop/251/work4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
